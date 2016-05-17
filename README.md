@@ -1,3 +1,5 @@
+# Comandos iniciales
+
     git clone git@github.com:juanrodriguez16/campusciff.git
     cd campusciff
     echo "" > README.md
