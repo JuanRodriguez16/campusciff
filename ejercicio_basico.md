@@ -146,10 +146,9 @@ Cuenta de GitHub
 1. Seleccionar una de las opciones, rellenar los datos y seguir las intrucciones. En la imagen siguiente se muestra el formulario que aparece después de haber pulsado sobre el botón "**Set up using SMS**". ![Tercera pantalla](images/FactorAutenticacion2-03.PNG)
 
 
-Unoooooooooooooooooo
-![](images/Doble_factor_01.PNG)
-Dossssssssssssssssss
-![](images/Doble_factor_02.PNG)
+Unoooooooooooooooooo. ![](images/Doble_factor_01.PNG)
+
+Dossssssssssssssssss. ![](images/Doble_factor_02.PNG)
 
 #### 3. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador. 
 
