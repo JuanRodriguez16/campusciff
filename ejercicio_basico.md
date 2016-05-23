@@ -11,17 +11,20 @@ Repositorio campusciff
 
 
 Desde la web de github voy al desplegable +, opcion new repository. En el formulario pongo el nombre del repositorio y pulso create repository.
-
 ![](images/crear_repositorio.PNG)
 
 #### 2. Clonar vuestro repositorio en local. 
 
+Para clonar el repositorio ejecutamos el siguiente comando:
 
 ```bash
     git clone git@github.com:juanrodriguez16/campusciff.git
 ```
 
-![](images/ClonarRepositorio.PNG)
+El resultado en pantalla es el siguiente:
+
+![](images/Clonar.PNG)
+
 
 README
 ==================================================
