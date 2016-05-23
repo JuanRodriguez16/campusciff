@@ -139,25 +139,39 @@ Cuenta de GitHub
 #### 1. Poner una foto en vuestro perfil de GitHub. 
 
 
-1. Desde el menú desplegable de la esquina superior derecha de la pantalla seleccionar la opción "**Setting**"
-1. En la nueva pantalla pulsar sobe el botón "**Upload new picture**", elegir una imagen de nuestro sistema y pulsar "**Update profile**". ![Subir imagen](images/Foto.PNG)
+Seleccion la opción setting desde el menú esquina superior derecha.
+Elijo una nueva imagen de mi sistema tras seleccionar la opción Upload new picture, finalmente selecciono update profile para subir la imagen.
+
+[imagen](images/Foto.PNG)
 
 #### 2. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
 
 
-1. Desde el menú desplegable de la esquina superior derecha de la pantalla seleccionar la opción "**Setting**"
-1. Pulsar sobre la opción "**Security**" del menú:. ![Primera pantalla](images/FactorAutenticacion2-01.PNG)
-1. Pulsar sobre el botón "**Set up two-factor authentication**". ![Segunda pantalla](images/FactorAutenticacion2-02.PNG)
-1. Seleccionar una de las opciones, rellenar los datos y seguir las intrucciones. En la imagen siguiente se muestra el formulario que aparece después de haber pulsado sobre el botón "**Set up using SMS**". ![Tercera pantalla](images/FactorAutenticacion2-03.PNG)
 
 
-Primera pantalla del doble factor dce autenticación. 
 
-![Primera](images/Doble_factor_01.PNG)
 
-Segunda pantalla del doble factor dce autenticación. 
 
-![Segunda](images/Doble_factor_02.PNG)
+En el menú desplegable de la esquina superior derecha de la pantalla elegir setting.
+
+![](images/Factor2-a.PNG)
+
+A continuacion seleccionar security 
+
+![](images/Factor2-b.PNG)
+
+1. A continuación set up two factor authentication
+
+![](images/Factor2-c.PNG)
+
+Selecciono una opción. -selecciono set up using sms, e introduzco el codigo que recibo via sms.
+
+![](images/Factor2-d.PNG)
+
+Aqui compruebo que tengo activado el doble factor de autenticación.
+![](images/Factor2-e.PNG)
+
+
 
 
 #### 3. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador. 
