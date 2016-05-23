@@ -207,7 +207,7 @@ A continuación pulso sobre el botón Watch y seleccionar la opción Watching.
 #### 3. Añadir una estrella a los repositorios campusciff del resto de tus compañeros. 
 
 
-Primero accedo a la pagina de un compañero (Ej.: _https://github.com/eserranom_) elijo el repositorio campusciff. A continuación pulsar sobre el botón Star.
+Primero accedo a la pagina de un compañero (Ej.: https://github.com/juangarciaciff) elijo el repositorio campusciff. A continuación pulsar sobre el botón Star.
 
 ![Marcar estrella](images/Estrella.PNG)
 
