@@ -175,12 +175,14 @@ Aqui compruebo que tengo activado el doble factor de autenticación.
     cat ~/.ssh/id_rsa.pub         
 ```
 
-![SSH generación](images/GenerarSSH-01.PNG)
+![SSH](images/Codigo_SSH.PNG)
 
 
-1. Acceder a la página "**SSH and GPG keys**" desde el menú principal y pulsar sobre el botón "**New SSH key**". ![SSH generación](images/GenerarSSH-02.PNG)
-1. Añadir título y pegar el contenido del portapapeles (fichero *id_rsa.pub*). ![SSH generación](images/GenerarSSH-03.PNG)
-1. Pulsar el botón "**Add SSH key**". ![SSH generación](images/GenerarSSH-04.PNG)
+Voy a la pagina "**SSH and GPG keys**" elijo la opción "**New SSH key**". 
+Se añade el titulo y se pega el contenido (fichero *id_rsa.pub*). 
+Finalmente boton Add SSH Key.
+
+![SSH](images/Pantala_SSH.PNG)
 
 Uso social de GitHub
 ==================================================
