@@ -146,19 +146,15 @@ Elijo una nueva imagen de mi sistema tras seleccionar la opción Upload new pict
 
 #### 2. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
 
-En el menú desplegable de la esquina superior derecha de la pantalla elegir setting.
+En el menú desplegable de la esquina superior derecha de la pantalla elegir setting. A continuacion seleccionar security. A continuación set up two factor authentication
 
 ![Factor2 a](images/Factor2_a.PNG)
 
-A continuacion seleccionar security 
-
 ![Factor2 b](images/Factor2_b.PNG)
 
-A continuación set up two factor authentication
+Selecciono una opción. -selecciono set up using sms, e introduzco el codigo que recibo via sms.
 
 ![Factor2 c](images/Factor2_c.PNG)
-
-Selecciono una opción. -selecciono set up using sms, e introduzco el codigo que recibo via sms.
 
 ![Factor2 d](images/Factor2_d.PNG)
 
