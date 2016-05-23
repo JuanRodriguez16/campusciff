@@ -89,12 +89,11 @@ Ignorar archivos
 
 
 ```bash
-	echo "*~" > .gitignore
 	echo "privado.txt" > .gitignore
 	echo "privada/*" > .gitignore
 ```
 
-> Nota: he añadido "*~" para ignorar tambiñen estos ficheros
+
 
 Añadir fichero 1.txt
 ==================================================
@@ -104,7 +103,7 @@ Añadir fichero 1.txt
 
 
 ```bash
-	echo "Este es el fichero 1" > 1.txt
+	echo "Añado el fichero 1.txt" > 1.txt
 ```
 
 Crear el tag v0.1
@@ -126,13 +125,13 @@ Subir el tag v0.1
 
 
 ```bash
-	git add .gitignore
-	git add 1.txt
-	git commit -m "Segundo commit"
-	git push origin master
+    git add 1.txt
+    git add .gitignore
+    git commit -m "Subiendo fichero 1.txt y .gitignore"
+    git push origin master
 ```
 
-![Segundo commit](images/SegundoCommit.PNG)
+![Segundo commit](images/Commit2.PNG)
 
 Cuenta de GitHub
 ==================================================
