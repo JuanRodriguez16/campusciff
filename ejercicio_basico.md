@@ -182,7 +182,7 @@ Voy a la pagina "**SSH and GPG keys**" elijo la opción "**New SSH key**".
 Se añade el titulo y se pega el contenido (fichero *id_rsa.pub*). 
 Finalmente boton Add SSH Key.
 
-![SSH](images/Pantala_SSH.PNG)
+![SSH](images/Pantalla_SSH.PNG)
 
 Uso social de GitHub
 ==================================================
