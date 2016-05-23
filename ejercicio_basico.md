@@ -199,7 +199,7 @@ Aparecen una lista de opciones en función del texto introducido como elemento d
 #### 2. Seguir los repositorios campusciff del resto de tus compañeros. 
 
 
-Primero accedo a la pagina de un compañero (Ej.: _https://github.com/eserranom_) elijo el repositorio campusciff.
+Primero accedo a la pagina de un compañero (Ej.: https://github.com/juangarciaciff) elijo el repositorio campusciff.
 A continuación pulso sobre el botón Watch y seleccionar la opción Watching. 
 
 ![Marcar seguimiento](images/Watch.PNG)
@@ -225,11 +225,11 @@ Crear una tabla
 | Enrique Serrano Muñoz           | [eserranom](https://github.com/eserranom)         |
 | Fernando Javier Escolano Cuenca | [fescolan](https://github.com/fescolan)          |
 | Jorge Maza de Julián            | [jorgemaza](https://github.com/jorgemaza)         |
-| Juan Antonio García Cuevas      | [juanrodriguez16](https://github.com/juanrodriguez16)    |
+| Juan Antonio García Cuevas      | [juangarciaciff](https://github.com/juangarciaciff)    |
 | Mark Wellings                   | [Mark-Wellings](https://github.com/Mark-Wellings)     |
 | Asier Matas Hernando            |                   |
 | Borja Méndez Mariño             |                   |
-| Juan Isidro Rodríguez Granados  |                   |
+| Juan Isidro Rodríguez Granados  | [juanrodriguez16](https://github.com/juanrodriguez16)    |
 | Héctor Soto                     |                   |
 | José Luis González Blázquez     |                   |
 | Alberto Marino                  |                   |
