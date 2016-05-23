@@ -178,8 +178,8 @@ Aqui compruebo que tengo activado el doble factor de autenticación.
 ![SSH](images/Codigo_SSH.PNG)
 
 
-Voy a la pagina "**SSH and GPG keys**" elijo la opción "**New SSH key**". 
-Se añade el titulo y se pega el contenido (fichero *id_rsa.pub*). 
+Voy a la pagina SSH and GPG keys elijo la opción New SSH key. 
+Se añade el titulo y se pega el contenido (fichero id_rsa.pub). 
 Finalmente boton Add SSH Key.
 
 ![SSH](images/Pantalla_SSH.PNG)
@@ -191,21 +191,27 @@ Uso social de GitHub
 
 
 1. Desde el menú desplegable de la esquina superior derecha de la pantalla seleccionar la opción "**Explore**".
-1. En el cuadro de texto de la parte superior de la nueva pantalla escribir el nombre de usuario de un compañero y pusar la tecla Return. ![Burcar compañeros](images/BuscarOtros-01.PNG)
-1. Aparecerá una nueva pantalla con la lista de elementos de GitHub que corresponden al texto escrito. Pulsar sobre la opción "**Users**" del menú, localizar la persona buscada y pulsar sobre el botón "**Follow**" correspondiente. ![Burcar compañeros](images/BuscarOtros-02.PNG)
-1. En la pantalla "Following" pueden verse los compañreros a los que se está siguiendo. ![Siguiendo A](images/SiguiendoA.PNG)
+1. En el cuadro de texto de la parte superior de la nueva pantalla escribir el nombre de usuario de un compañero y pusar la tecla Return. 
+1. Aparecerá una nueva pantalla con la lista de elementos de GitHub que corresponden al texto escrito. Pulsar sobre la opción "**Users**" del menú, localizar la persona buscada y pulsar sobre el botón "**Follow**" correspondiente.
+1. En la pantalla "Following" pueden verse los compañreros a los que se está siguiendo. 
+
+![Burcar compañeros](images/Social_1.PNG)
 
 #### 2. Seguir los repositorios campusciff del resto de tus compañeros. 
 
 
 1. Acceder a la página GitHub de un compañero (Ej.: _https://github.com/eserranom_) y pulsar sobre el nombre del repositorio "**campusciff**".
-1. En la pantalla del repositorio pulsar sobre el botón "**Watch**" y seleccionar la opción "**Watching**". ![Marcar seguimiento](images/MarcarSeguimiento.PNG)
+1. En la pantalla del repositorio pulsar sobre el botón "**Watch**" y seleccionar la opción "**Watching**". 
+
+![Marcar seguimiento](images/Watch.PNG)
 
 #### 3. Añadir una estrella a los repositorios campusciff del resto de tus compañeros. 
 
 
 1. Acceder a la página GitHub de un compañero (Ej.: _https://github.com/eserranom_) y pulsar sobre el nombre del repositorio "**campusciff**".
-1. En la pantalla del repositorio pulsar sobre el botón "**Star**". ![Marcar estrella](images/MarcarEstrella.PNG)
+1. En la pantalla del repositorio pulsar sobre el botón "**Star**".
+
+![Marcar estrella](images/Estrella.PNG)
 
 Crear una tabla
 ==================================================
@@ -215,20 +221,20 @@ Crear una tabla
 | NOMBRE                          | GITHUB            |
 | ------------------------------- | ----------------- |
 | Ainhoa Calvo                    | [AinhoaCE](https://github.com/AinhoaCE)          |
-| Alberto Marino                  |                   |
 | Anna Lawrenc                    | [annalawrenc](https://github.com/annalawrenc)       |
 | Araceli Macia Barrado           | [araceliMacia](https://github.com/araceliMacia)      |
-| Asier Matas Hernando            |                   |
-| Borja Méndez Mariño             |                   |
 | Edwin Giovanni Gonzalez Mata    | [giovamata](https://github.com/giovamata)         |
 | Enrique Serrano Muñoz           | [eserranom](https://github.com/eserranom)         |
 | Fernando Javier Escolano Cuenca | [fescolan](https://github.com/fescolan)          |
-| Héctor Soto                     |                   |
 | Jorge Maza de Julián            | [jorgemaza](https://github.com/jorgemaza)         |
-| José Luis González Blázquez     |                   |
 | Juan Antonio García Cuevas      | [juanrodriguez16](https://github.com/juanrodriguez16)    |
-| Juan Isidro Rodríguez Granados  |                   |
 | Mark Wellings                   | [Mark-Wellings](https://github.com/Mark-Wellings)     |
+| Asier Matas Hernando            |                   |
+| Borja Méndez Mariño             |                   |
+| Juan Isidro Rodríguez Granados  |                   |
+| Héctor Soto                     |                   |
+| José Luis González Blázquez     |                   |
+| Alberto Marino                  |                   |
 | Sergio Castro Rodriguez         |                   |
 
 Colaboradores
@@ -240,6 +246,8 @@ Colaboradores
 1. Acceder al la página principal del repositorio **campusciff**.
 1. Acceder a la pestaña "**Settings**".
 1. Acceder a la opción de menú "**Collaborators**".
-1. Escribir (o buscar) "**asanzdiego**" en el cuadro de texto "**Search by username, full name or email address**". ![Agregando colaborador](images/AgregarColaborador-01.PNG)
-1. Pulsar el botón "**Add collaborator**". ![Colaborador agregado](images/AgregarColaborador-02.PNG)
+1. Escribir (o buscar) "**asanzdiego**" en el cuadro de texto "**Search by username, full name or email address**". 
+1. Pulsar el botón "**Add collaborator**". 
+
+![Colaborador agregado](images/Colaborador.PNG)
 
